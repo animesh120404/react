@@ -1,3 +1,4 @@
+
 📘 Mastering React & Redux Toolkit 
 This project documents my journey into modern frontend development using React and Redux Toolkit. My objective was to understand how to engineer scalable, maintainable, and highly efficient user interfaces. 
 
@@ -29,3 +30,6 @@ Differentiating when to use local component state versus global store state.
 Tracing unidirectional data flow in a React + Redux ecosystem.
 Authoring clean, readable, and highly maintainable frontend code.
 Implementing professional file structures used in real-world production apps.
+=======
+# react
+>>>>>>> 92d13b34eb36ba9a6b0eda63d3025d1540bb525a
